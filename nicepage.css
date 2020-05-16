@@ -26836,10 +26836,11 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-menu-1 {width: auto; margin-top: -29px; margin-right: 84px} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 168px}
-.u-footer .u-text-1 {width: 838px; margin: 48px auto 0}
+.u-footer .u-text-1 {margin: 48px 41px 0}
 .u-footer .u-text-2 {font-size: 1.125rem; margin: 42px 20px 0 auto}
 .u-footer .u-text-3 {margin: -22px 611px 0 0} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px}
+.u-footer .u-text-1 {width: 838px; margin-left: 0; margin-right: 0}
 .u-footer .u-text-2 {margin-right: 16px}
 .u-footer .u-text-3 {width: 417px; margin-right: 411px} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px}
