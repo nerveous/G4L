@@ -7,7 +7,7 @@
 .u-section-2 .u-text-2 {width: 620px; margin: 0 auto}
 .u-section-2 .u-btn-1 {border-style: solid; text-transform: uppercase; font-size: 0.75rem; box-shadow: -4px 5px 20px 0 rgba(0,0,0,0.4); padding-top: 9px; padding-bottom: 11px; animation-duration: 1000ms; margin: 26px 264px 0 auto}
 .u-section-2 .u-btn-2 {border-style: solid; font-size: 0.75rem; text-transform: uppercase; box-shadow: -4px 5px 20px 0 rgba(0,0,0,0.4); animation-duration: 1000ms; margin: -43px 9px 0 auto; padding: 10px 44px 10px 43px}
-.u-section-2 .u-btn-3 {font-size: 0.75rem; border-style: solid; background-image: none; box-shadow: -4px 5px 20px 0 rgba(0,0,0,0.4); animation-duration: 1000ms; text-transform: uppercase; margin: -43px auto 0 9px}
+.u-section-2 .u-btn-3 {font-size: 0.75rem; border-style: solid; box-shadow: -4px 5px 20px 0 rgba(0,0,0,0.4); animation-duration: 1000ms; text-transform: uppercase; margin: -43px auto 0 9px}
 .u-section-2 .u-btn-4 {background-image: none; border-style: solid; font-size: 0.75rem; text-transform: uppercase; box-shadow: -4px 5px 20px 0 rgba(0,0,0,0.4); padding-top: 9px; padding-bottom: 11px; animation-duration: 1000ms; margin: -43px auto 16px 260px} 
 
 @media (max-width: 1199px){ .u-section-2 .u-text-2 {width: 625px}
